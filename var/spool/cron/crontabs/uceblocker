@@ -1,0 +1,4 @@
+# UCEBLOCKER EXAMPLE CRONTAB
+# This cron job will run at 1 a.m. every day!
+
+0 1 * * * /opt/uceblocker/uceblocker.py

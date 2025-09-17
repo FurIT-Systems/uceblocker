@@ -1,0 +1,2 @@
+uceblocker ALL=NOPASSWD: /opt/uceblocker/uceblocker.py
+uceblocker ALL=NOPASSWD: /usr/sbin/postmap
