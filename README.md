@@ -1,6 +1,6 @@
 # UCEBlocker
 
-The new and improved version of [miklosakos/fuck-uceprotet](https://github.com/miklosakos/fuck-uceprotect).
+The new and improved version of [miklosakos/fuck-uceprotect](https://github.com/miklosakos/fuck-uceprotect).
 
 This Python script aims to block all incoming and outgoing emails from and to UCEProtect customers.
 
